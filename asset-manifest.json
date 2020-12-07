@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/clocks-react/static/css/main.80bf062c.chunk.css",
-    "main.js": "/clocks-react/static/js/main.8962094a.chunk.js",
-    "main.js.map": "/clocks-react/static/js/main.8962094a.chunk.js.map",
-    "runtime-main.js": "/clocks-react/static/js/runtime-main.fe566be5.js",
-    "runtime-main.js.map": "/clocks-react/static/js/runtime-main.fe566be5.js.map",
-    "static/js/2.8bdbecbe.chunk.js": "/clocks-react/static/js/2.8bdbecbe.chunk.js",
-    "static/js/2.8bdbecbe.chunk.js.map": "/clocks-react/static/js/2.8bdbecbe.chunk.js.map",
-    "static/js/3.d507af1d.chunk.js": "/clocks-react/static/js/3.d507af1d.chunk.js",
-    "static/js/3.d507af1d.chunk.js.map": "/clocks-react/static/js/3.d507af1d.chunk.js.map",
-    "index.html": "/clocks-react/index.html",
-    "static/css/main.80bf062c.chunk.css.map": "/clocks-react/static/css/main.80bf062c.chunk.css.map",
-    "static/js/2.8bdbecbe.chunk.js.LICENSE.txt": "/clocks-react/static/js/2.8bdbecbe.chunk.js.LICENSE.txt"
+    "main.css": "/digital-clock-react/static/css/main.eaad0fe1.chunk.css",
+    "main.js": "/digital-clock-react/static/js/main.fd7b3963.chunk.js",
+    "main.js.map": "/digital-clock-react/static/js/main.fd7b3963.chunk.js.map",
+    "runtime-main.js": "/digital-clock-react/static/js/runtime-main.b9023236.js",
+    "runtime-main.js.map": "/digital-clock-react/static/js/runtime-main.b9023236.js.map",
+    "static/js/2.6ad88c5b.chunk.js": "/digital-clock-react/static/js/2.6ad88c5b.chunk.js",
+    "static/js/2.6ad88c5b.chunk.js.map": "/digital-clock-react/static/js/2.6ad88c5b.chunk.js.map",
+    "static/js/3.a4f7cb1f.chunk.js": "/digital-clock-react/static/js/3.a4f7cb1f.chunk.js",
+    "static/js/3.a4f7cb1f.chunk.js.map": "/digital-clock-react/static/js/3.a4f7cb1f.chunk.js.map",
+    "index.html": "/digital-clock-react/index.html",
+    "static/css/main.eaad0fe1.chunk.css.map": "/digital-clock-react/static/css/main.eaad0fe1.chunk.css.map",
+    "static/js/2.6ad88c5b.chunk.js.LICENSE.txt": "/digital-clock-react/static/js/2.6ad88c5b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe566be5.js",
-    "static/js/2.8bdbecbe.chunk.js",
-    "static/css/main.80bf062c.chunk.css",
-    "static/js/main.8962094a.chunk.js"
+    "static/js/runtime-main.b9023236.js",
+    "static/js/2.6ad88c5b.chunk.js",
+    "static/css/main.eaad0fe1.chunk.css",
+    "static/js/main.fd7b3963.chunk.js"
   ]
 }
