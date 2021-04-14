@@ -1,3 +1,23 @@
+# Digital clock 
+
+## A simple React APP showing the current time. 
+
+#### https://antonrufus.github.io/digital-clock-react/
+
+## Tech stack:
+
+  ### React,
+
+  ### CSS:
+    - CSS modules
+
+## Feel free to contact me via LinkedIn: 
+
+#### https://www.linkedin.com/in/anton-zhyvotovskyi/
+
+
+-----------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
