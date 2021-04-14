@@ -6,7 +6,8 @@
 
 ## Tech stack:
 
-  ### React,
+  ### React:
+    -Hooks
 
   ### CSS:
     - CSS modules
